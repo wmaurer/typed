@@ -1,4 +1,4 @@
-# @typed/fp
+# Typed
 
 A collection of libraries and tools for building applications using [Effect](https://github.com/Effect-TS).
 
